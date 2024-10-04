@@ -1,0 +1,138 @@
+    1  sudo su 
+    2  mkdir Reva
+    3  ls 
+    4  mkdir Bsc 
+    5  ls
+    6  rmdir  Reva 
+    7  ls
+   12  man mkdir 
+   13  man ls 
+   15  mkdir  CC  BD 
+   16  ls
+   17  mkdir  rcb  csk  srh  mi 
+   18  ls
+   19  rmdir CC  rcb  mi 
+   22  mkdir .joy 
+   23  ls 
+   24  man ls
+   25  ls  -a  
+   26  rmdir joy
+   28  rmdir  .joy 
+   29  ls -a
+   30  mkdir  .bsc   .msc   .bca  .mca 
+   31  ls -a
+   32  clear
+   33  rmdir  .bsc   .msc   .bca  .mca 
+   34  ls -a
+         pwd
+   
+
+
+    5 mkdir reva | touch bsc 
+    6  ls 
+    7  mkdir mca | touch .msc 
+    8  ls 
+    9  ls  -a 
+   10  rmdir mca | rm .msc | mkdir cloud
+   11  ls -a
+   12  clear
+   13  cd cloud
+   14  mkdir bigdata
+   15  ls
+   16  cd .. 
+   17  clear
+   18  ls
+   19  rmdir cloud 
+   20  man rm 
+   21  rm -rf cloud 
+   22  ls
+   23  clear
+   24  mkdir ipl
+   25  cd ipl
+   26  mkdir rcb csk mi 
+   27  ls
+   28  cd ..
+   29  ls
+   30  rm -rvf ipl
+   31  history 
+   32  clear
+   33  mkdir ipl
+   34  cd ipl
+   35  mkdir rcb
+   36  ls
+   37  cd ..
+   38  rm -rvf ipl/rcb 
+   39  ls
+   40  cd reva
+   41  mkdir bsc
+   42  cd bsc
+   43  mkdir sem1
+   44  clear
+   45  cd ../..
+   46  ls
+   47  touch reva/bsc/sem1/linux 
+   48  ls
+   49  ls reva/bsc/sem1/
+   50  clear
+   51  rm reva/bsc/sem1/linux 
+   52  ls reva/bsc/sem1
+   53  clear
+   54  touch reva/bsc/sem1/.cs
+   55  ls reva/bsc/sem1
+   56  ls -a  reva/bsc/sem1
+   57  clear
+   58  history 
+   59  clear
+   60  man mkdir 
+   61  clear
+   62  mkdir -p reva/bsc/bca/sem1 
+   63  cd reva/bsc/bca/
+   64  ls
+   65  cd ../..
+   66  cd ..
+   67  clear
+   68  touch reva/bsc/bca/redhat 
+   69  cd reva/bsc/bca/
+   70  ls
+   71  cd ../../..
+   72  touch reva/bsc/.msc
+   73  cd reva/bsc/
+   74  ls
+   75  ls -a
+   76  history 
+   77  clear
+   78  cd ../../
+   79  clear
+   80  rm reva/bsc/bca/redhat 
+   81  clear
+   82  ls
+   83  rm -rvf * 
+   84  clear
+   85  ls
+   86  clear
+   87  mkdir  reva   bsc
+   88  ls
+   89  cp  bsc  reva 
+   90  cp -r  bsc  reva 
+   91  ls reva
+   92  clear
+   93  touch f1 f2 f3 f4 f5 m1 m2 m3
+   94  mkdir n1 n2 n3
+   95  ls
+   96  cp   f*  reva 
+   97  cd reva 
+   98  ls
+   99  cd ..
+  100  ls
+  101  rm  m* 
+  102  ls
+  103  clear
+  104  history 
+  105  clear
+  106  history 
+
+
+
+
+    
+   
